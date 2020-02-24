@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<https://gyazo.com/c7d3f224739cfff3a94efe69167e376d' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<https://i.gyazo.com/c7d3f224739cfff3a94efe69167e376d.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
