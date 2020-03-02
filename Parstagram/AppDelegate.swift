@@ -8,6 +8,7 @@
 
 import UIKit
 import Parse
+
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
@@ -22,6 +23,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
             configuration.server = "https://calm-ocean-78973.herokuapp.com/parse"
         })
         )
+      
         return true
     }
 
